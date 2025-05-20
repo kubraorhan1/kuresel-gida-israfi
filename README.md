@@ -1,5 +1,10 @@
 # Küresel Gıda İsrafı
 
+## Ekip
+
+Bu proje [Kübra Orhan](https://github.com/kubraorhan1) ve [Bahar Türkel](https://github.com/bahartürkel) tarafından geliştirilmiştir.
+
+
 Bu projede, dünya genelindeki gıda israfı verileri analiz edilmiştir.
 
 ## İçerik
