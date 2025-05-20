@@ -2,7 +2,7 @@
 
 ## Ekip
 
-Bu proje [Kübra Orhan](https://github.com/kubraorhan1) ve [Bahar Türkel](https://github.com/bahartürkel) tarafından geliştirilmiştir.
+Bu proje [Kübra Orhan](https://github.com/kubraorhan1) ve [Bahar Türkel](https://github.com/baharturkel) tarafından geliştirilmiştir.
 
 
 Bu projede, dünya genelindeki gıda israfı verileri analiz edilmiştir.
